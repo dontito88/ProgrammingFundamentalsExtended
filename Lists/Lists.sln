@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SquareNumbers", "06.Squa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CountNumbers", "07.CountNumbers\07.CountNumbers.csproj", "{F743E137-77BA-421D-994D-7B1F7E374B53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01.RemoveOddElements", "Ex01.RemoveOddElements\Ex01.RemoveOddElements.csproj", "{AE8EF3EF-1F3A-4280-8F76-F0D232A76B4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F743E137-77BA-421D-994D-7B1F7E374B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F743E137-77BA-421D-994D-7B1F7E374B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F743E137-77BA-421D-994D-7B1F7E374B53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8EF3EF-1F3A-4280-8F76-F0D232A76B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8EF3EF-1F3A-4280-8F76-F0D232A76B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8EF3EF-1F3A-4280-8F76-F0D232A76B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8EF3EF-1F3A-4280-8F76-F0D232A76B4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
