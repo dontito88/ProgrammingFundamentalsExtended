@@ -1,4 +1,4 @@
-﻿namespace _3.SumAdjacentEqualNumbers
+﻿namespace _03.SumAdjacentEqualNumbers
 {
     using System;
     using System.Collections.Generic;

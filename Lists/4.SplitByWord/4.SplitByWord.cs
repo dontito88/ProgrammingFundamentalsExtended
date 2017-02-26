@@ -1,4 +1,4 @@
-﻿namespace _4.SplitByWord
+﻿namespace _04.SplitByWord
 {
     using System;
     using System.Collections.Generic;
@@ -10,7 +10,8 @@
         {
             String inputText = Console.ReadLine();
             string[] words = inputText
-                                .Split(new char[] { ',', '.', ';', ':', '!', '(', ')', '"', '\'', '\\', '/', '[', ']', ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                                .Split(new char[] { ',', '.', ';', ':', '!', '(', ')', '"', '\'', '\\', '/', '[', ']', ' ' }, 
+                                StringSplitOptions.RemoveEmptyEntries);
 
             List<string> lowerCase = new List<string>();
             List<string> upperCase = new List<string>();
