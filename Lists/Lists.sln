@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01.RemoveOddElements", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex02.TrackDownloader", "Ex02.TrackDownloader\Ex02.TrackDownloader.csproj", "{52974FDC-0A00-416A-9482-AA64062BE5BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.EqualSum", "Ex03.EqualSum\Ex03.EqualSum.csproj", "{31D8A4EF-D0A9-466C-A2CB-C000AA5501CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{52974FDC-0A00-416A-9482-AA64062BE5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52974FDC-0A00-416A-9482-AA64062BE5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52974FDC-0A00-416A-9482-AA64062BE5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D8A4EF-D0A9-466C-A2CB-C000AA5501CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D8A4EF-D0A9-466C-A2CB-C000AA5501CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D8A4EF-D0A9-466C-A2CB-C000AA5501CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D8A4EF-D0A9-466C-A2CB-C000AA5501CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
