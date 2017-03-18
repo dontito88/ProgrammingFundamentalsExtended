@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OddOccurrences", "02.Odd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01.LetterRepetition", "ex01.1.LetterRepetition\ex01.LetterRepetition.csproj", "{B9998724-E9EB-4DA3-A96F-1253B18810BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02.DictRef", "ex02.DitRef\ex02.DictRef.csproj", "{341A25F3-C5BA-40D7-A172-F8CF4BD8C40C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B9998724-E9EB-4DA3-A96F-1253B18810BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9998724-E9EB-4DA3-A96F-1253B18810BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9998724-E9EB-4DA3-A96F-1253B18810BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341A25F3-C5BA-40D7-A172-F8CF4BD8C40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341A25F3-C5BA-40D7-A172-F8CF4BD8C40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341A25F3-C5BA-40D7-A172-F8CF4BD8C40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341A25F3-C5BA-40D7-A172-F8CF4BD8C40C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

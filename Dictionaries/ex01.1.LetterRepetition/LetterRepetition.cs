@@ -19,6 +19,7 @@
                 {
                     lettersCount[letter] = 0;
                 }
+
                 lettersCount[letter]++;
             }
 
