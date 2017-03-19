@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04.ExamShopping", "ex04.E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex05.UserLogins", "ex05.UserLogins\ex05.UserLogins.csproj", "{46393F7A-D4F1-4004-8EE4-1D609459BB7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex06.FilterBase", "ex06.FilterBase\ex06.FilterBase.csproj", "{1781EF3D-0188-468E-963A-6CBD0CD7C74A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{46393F7A-D4F1-4004-8EE4-1D609459BB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46393F7A-D4F1-4004-8EE4-1D609459BB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46393F7A-D4F1-4004-8EE4-1D609459BB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1781EF3D-0188-468E-963A-6CBD0CD7C74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1781EF3D-0188-468E-963A-6CBD0CD7C74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1781EF3D-0188-468E-963A-6CBD0CD7C74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1781EF3D-0188-468E-963A-6CBD0CD7C74A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
