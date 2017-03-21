@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.AvarageStudentsGrades", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CitiesByContinentsAndCountry", "02.CitiesByContinentsAndCountry\02.CitiesByContinentsAndCountry.csproj", "{D6B56DEF-AC90-4C43-A909-BDEAE470499D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RecordUniqueNames", "03.RecordUniqueNames\03.RecordUniqueNames.csproj", "{B9A2D32C-7152-41C9-973E-21CD84A0172E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D6B56DEF-AC90-4C43-A909-BDEAE470499D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6B56DEF-AC90-4C43-A909-BDEAE470499D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6B56DEF-AC90-4C43-A909-BDEAE470499D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A2D32C-7152-41C9-973E-21CD84A0172E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A2D32C-7152-41C9-973E-21CD84A0172E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A2D32C-7152-41C9-973E-21CD84A0172E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A2D32C-7152-41C9-973E-21CD84A0172E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
