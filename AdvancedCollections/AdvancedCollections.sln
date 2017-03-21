@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CitiesByContinentsAndCou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RecordUniqueNames", "03.RecordUniqueNames\03.RecordUniqueNames.csproj", "{B9A2D32C-7152-41C9-973E-21CD84A0172E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GroupContinentsCountriesCities", "04.GroupContinentsCountriesCities\04.GroupContinentsCountriesCities.csproj", "{A35A01D6-11FB-402F-816F-79865E564C96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B9A2D32C-7152-41C9-973E-21CD84A0172E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9A2D32C-7152-41C9-973E-21CD84A0172E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9A2D32C-7152-41C9-973E-21CD84A0172E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35A01D6-11FB-402F-816F-79865E564C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35A01D6-11FB-402F-816F-79865E564C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35A01D6-11FB-402F-816F-79865E564C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35A01D6-11FB-402F-816F-79865E564C96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
