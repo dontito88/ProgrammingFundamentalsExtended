@@ -20,6 +20,7 @@
                 if (!vladiSshell.ContainsKey(region))
                 {
                     vladiSshell[region] = new HashSet<int>();
+                    vladiSshell[region].Add(size);
                 }
                 vladiSshell[region].Add(size);
 
