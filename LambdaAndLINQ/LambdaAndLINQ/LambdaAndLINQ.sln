@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Largerst3Numbers", "02.L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ShortWordsSorted", "03.ShortWordsSorted\03.ShortWordsSorted.csproj", "{F8FB429E-1C80-4CE5-8E85-519D2ABD5A43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02.OrderedBankSystem", "ex02.OrderedBankSystem\ex02.OrderedBankSystem.csproj", "{EC2F3B99-3C50-4223-A667-5D0C39BF6BDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F8FB429E-1C80-4CE5-8E85-519D2ABD5A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8FB429E-1C80-4CE5-8E85-519D2ABD5A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8FB429E-1C80-4CE5-8E85-519D2ABD5A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2F3B99-3C50-4223-A667-5D0C39BF6BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2F3B99-3C50-4223-A667-5D0C39BF6BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2F3B99-3C50-4223-A667-5D0C39BF6BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2F3B99-3C50-4223-A667-5D0C39BF6BDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
