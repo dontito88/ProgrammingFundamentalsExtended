@@ -8,12 +8,22 @@
     {
         public static void Main()
         {
-            var marathonDays = int.Parse(Console.ReadLine());
-            var runners = int.Parse(Console.ReadLine());
-            var averageLapsOnTrack = int.Parse(Console.ReadLine());
-            var lapLenght = int.Parse(Console.ReadLine());
-            var trackCapacity = int.Parse(Console.ReadLine());
-            var moneyPerKilometer = double.Parse(Console.ReadLine());
+            int marathonDays = int.Parse(Console.ReadLine());
+            long runners = long.Parse(Console.ReadLine());
+            int averageLapsOnTrack = int.Parse(Console.ReadLine());
+            long lapLenght = long.Parse(Console.ReadLine());
+            int trackCapacity = int.Parse(Console.ReadLine());
+            double moneyPerKilometer = double.Parse(Console.ReadLine());
+            
+            trackCapacity = trackCapacity * marathonDays;
+
+            runners = Math.Min(trackCapacity, runners);
+
+            long totalKm = (runners * lapLenght * averageLapsOnTrack) / 1000;
+
+            var totalMoney = totalKm * moneyPerKilometer;
+
+            Console.WriteLine($"Money raised: {totalMoney:F2}");
         }
     }
 }
